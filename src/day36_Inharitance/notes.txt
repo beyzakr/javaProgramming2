@@ -1,0 +1,43 @@
+Inheritance
+Important!
+
+Inheritance topic:
+e one time. use it in the one hundred objdects in one hundred different classes
+ it allows classes to inheritat the common features from one class
+ extends keyword; two classes easy relationships
+
+ super class: the class whose features are inherited is known as super class(or a base class
+ or a parent class)
+ only the common features of all the objects
+
+ sub class:they can also have their own fields own methods.
+
+ what is inherited to sub class?
+ not every single variables and methods can be inherited
+ what kind of var and mets can be inherited it depends on the accessibility ?
+ --if the var and met in the superclass are  accessible for the subclass then the subclasss inherited
+ -- if the child class can see it in the parent class then the child class can take it
+
+ what if the child class can  can not see what the parent class has?
+ -- 1:32:10
+
+ private var and mets are NOT INHERITED
+
+ what is the most special method in java?
+ --CONSTRUCTOR
+
+ consts can not be inherited.why? there is one rule.. consts name it has to be same with the class  name
+ at all the time
+
+ import: borrowing
+ extends: owning
+
+ inherit: pass it through
+ import: let using
+
+
+
+
+
+
+

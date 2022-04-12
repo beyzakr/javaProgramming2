@@ -1,0 +1,8 @@
+whats the difference inheriting and importing?
+>> if i do the import will toyota be able to its own brand model ... it will still be property of CAR
+
+
+constructor you can not inherited
+
+multiple methods having the same name(overloading)
+

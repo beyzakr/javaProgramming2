@@ -1,0 +1,54 @@
+
+
+ try to analyze the code by yourself
+
+each characters from the second word, use the index one of the array, I will pass the
+index number (i), which can help me each of the characters in back words. You need to add
+String variable reverse
+
+in Interview reverse the second word, or reverse the last word only
+
+all the arrays that you've been use before it is the single dimensional array
+that is the used for containing the elements
+if you just have one braced, that means elements so single dimensional array
+multidimensional  array we only use it whenever we're trying the store multiple arrays
+every single multidimensional array: "The N dimensional array is a container for(N-1) dimensional arrays"
+
+---------------------------------
+
+Java Day22
+Topic: Multi Dimensional Array
+package name: day22_MultiDimensionalArray
+warmup task:
+1. Write a program that can reverse a sentence
+Ex:
+sentence = "Today is a good day to
+learn Java";
+output:
+Java learn to day good a is Today
+2. Write a program that can reverse the second word of the sentence
+Ex:
+sentence = "I Love Java";
+output:
+I evoL Java
+Single Dimensional Array: container for the elemnts
+10
+20
+40
+int[] array = {10, 20, 30};
+Multi Dimensional Array: container for the arrays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

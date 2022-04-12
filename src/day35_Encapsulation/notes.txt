@@ -1,0 +1,33 @@
+getter:
+getter is a method. if it is a method it has the block of code.
+if the user has modify the data;which method is modifying? or writing the data:SETTER
+setter is for write only
+what is benefit of the setter to modify the private data?
+setter is a method. if it is a method; you can also give additional,conditional,requirements any
+getter and setter more control of the private data. to read to write and access the data.
+method can have private access modifier but it gives logical error(getter and setter)
+because if those methods are ment to be read and write the private data outside the class those methods
+has to be accessible at all the time otherwise those two method has no purpose
+which access modifier can garanty that those two methods are accessible at all the time?--PUBLIC
+fields means : instance variables
+getter has return has private variable you must return private variables value
+if this getter is a method? what's the return type? --NOT VOID. return type must match private instance variable
+do we use getter for other purposes?--> WE ONLY USED FOR READ ONLY
+does getter pass any parameters?-->NO.
+
+setter:
+it is a void method
+without having the new data can the setter still be able to set the private instance variable?
+--NO.seter it passes a parameter can it pass any parameter with any data type?--NO.
+the parameter that you are passing in the setter==> the parameters data type has to be what? -- IT MUST
+match with the private instance variables data type!!
+setter you are only using it the changed it data.
+this.name=name;
+use the data: either reading it or writing
+setter it reassigns the private instance variable to given argument
+
+
+
+
+
+
