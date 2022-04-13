@@ -21,6 +21,10 @@ public class Square extends Shape{
         setSide(side);
     }
 }
+
+
+
+
 /*
 Square extends Shape:
 	variables:
