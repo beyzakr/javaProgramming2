@@ -36,7 +36,7 @@ public class Student extends Person{
                 "name='" + getName() + '\'' +
                 ", age=" + getAge() +
                 ", gender=" + getGender() +
-                "studentId=" + studentId +
+                ", studentId=" + studentId +
                 ", fieldOfStudy='" + fieldOfStudy + '\'' +
                 '}';
     }
