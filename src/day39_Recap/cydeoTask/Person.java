@@ -43,7 +43,7 @@ private char gender;
     }
 
     public void drink(){
-        System.out.println(name+" is sleeping");
+        System.out.println(name+" is drinking");
     }
 
     public void sleep(){
