@@ -7,13 +7,13 @@ public class Developer extends Employee{
     }
 
     public void fixingBugs(){
-        System.out.println(getJobTitle()+" "+getName()+" is fixing bug");
+        System.out.println(getJobTitle()+" "+getName()+" is fixing the bug");
     }
 
-    public void work(){
-        System.out.println(getJobTitle()+" "+getName()+" is working");
+    @Override
+    public void work() {
+        System.out.println(getJobTitle()+" "+getName()+" is developing the application");
     }
-
 
 
 }
