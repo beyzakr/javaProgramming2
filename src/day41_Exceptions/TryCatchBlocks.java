@@ -57,7 +57,7 @@ public class TryCatchBlocks {
 
 
         try {
-            System.out.println("Cydeo".substring(2, 0));
+            System.out.println("Cydeo".substring(2,0));
         }catch (RuntimeException e){
             e.printStackTrace();
         }
@@ -89,7 +89,7 @@ public class TryCatchBlocks {
         try {
             FileInputStream file = new FileInputStream("File path");
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+           // e.printStackTrace();
         }
 
 
