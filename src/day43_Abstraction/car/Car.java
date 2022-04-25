@@ -55,7 +55,7 @@ public abstract class Car {
 
 
     public void stop(){
-        System.out.println("Press the break");
+        System.out.println("Press the brake");
     }
 
     public abstract void start();
