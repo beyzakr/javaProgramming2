@@ -1,6 +1,6 @@
 package day43_Abstraction.employeeTask;
 
-public class Developer extends Employee{
+public final class Developer extends Employee{
     // it has to override all the abstract methods of employee class
 
     public Developer(String name, int age, char gender, int id, String jobTitle, double salary) {
